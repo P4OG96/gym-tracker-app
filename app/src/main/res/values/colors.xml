@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- layout -->
+    <color name="layout_text">#000000</color>
+    <color name="layout_background">#F2F2F2</color>
+
+    <!-- button -->
+    <color name="button_text">#000000</color>
+    <color name="button_background">#F2F2F2</color>
+
+    <!-- item -->
+    <color name="item_text">#000000</color>
+    <color name="item_background">#F2F2F2</color>
+
+</resources>
