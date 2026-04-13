@@ -32,11 +32,22 @@ Gebaut, um strukturierter zu trainieren und gleichzeitig mehr über lokale Daten
 
 ## Screenshots
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/1757d340-9006-4d7f-9d92-18d9ac95ab0e" width="250"/>
-  <img src="https://github.com/user-attachments/assets/46fd5bf0-544b-480f-8c22-b5f18d067071" width="250"/>
-  <img src="https://github.com/user-attachments/assets/cce43bde-65db-4aeb-95ef-0817e789efa0" width="250"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Workouts</b><br/>
+      <img src="https://github.com/user-attachments/assets/1757d340-9006-4d7f-9d92-18d9ac95ab0e" width="250"/>
+    </td>
+    <td align="center">
+      <b>Exercises</b><br/>
+      <img src="https://github.com/user-attachments/assets/46fd5bf0-544b-480f-8c22-b5f18d067071" width="250"/>
+    </td>
+    <td align="center">
+      <b>Sets</b><br/>
+      <img src="https://github.com/user-attachments/assets/cce43bde-65db-4aeb-95ef-0817e789efa0" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
